@@ -55,7 +55,7 @@
 
         .hero {
             height: 100vh;
-            background: url('c:\Qltt13\ảnh\Ảnh chụp màn hình 2025-11-27 215312.png') center/cover no-repeat;
+            background: url('ảnh/Ảnh\ chụp\ màn\ hình\ 2025-11-27\ 215312.png') center/cover no-repeat;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -122,10 +122,10 @@
     <section class="products" id="products">
         <h2>Sản phẩm nổi bật</h2>
         <div class="grid">
-            <div class="item"><img src="ảnh/Ảnh chụp màn hình 2025-11-27 215327.png"><p>Áo Croptop</p></div>
-            <div class="item"><img src="https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"><p>Đầm Công Sở</p></div>
-            <div class="item"><img src="https://images.unsplash.com/photo-1503341504253-dff4815485f1"><p>Áo Hoodie</p></div>
-            <div class="item"><img src="ảnh/z7269443548905_43e0fa03e50582256b7d063bd7795e72.jpg"><p>Quần Jean</p></div>
+            <div class="item"><img src="ảnh/z7269443548066_cb0c89a7e99da9f2278c4f1dabd1f6ab.jpg"><p>Hoodie black</p></div>
+            <div class="item"><img src="ảnh/z7269443548905_43e0fa03e50582256b7d063bd7795e72.jpg"><p>Jean Loe Black</p></div>
+            <div class="item"><img src="ảnh/z7269607360000_a1954f888ec76ee1558e26e903283947.jpg"><p>Áo Paradax</p></div>
+            <div class="item"><img src="ảnh/z7269607799977_ca1ff7a3c701a7f7f2cda0a526f425c7.jpg"><p>FULL SET TAM đẢO</p></div>
         </div>
     </section>
 
